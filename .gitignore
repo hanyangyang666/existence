@@ -1,0 +1,18 @@
+.DS_Store
+# Built application files
+*.apk
+*.ap_
+*.o
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Log Files
+*.log
+
+*.classpath
+*.project
+*.settings
+
